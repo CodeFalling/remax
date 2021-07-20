@@ -37,7 +37,7 @@
     "@remax/shared": "2.14.1",
     "@remax/web": "2.14.1",
     "qs": "^6.9.3",
-    "react-is": "^16.3.1",
+    "react-is": "^17.0.2",
     "react-reconciler": "0.26.2",
     "scheduler": "0.19.1"
   },

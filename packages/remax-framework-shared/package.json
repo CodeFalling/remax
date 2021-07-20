@@ -21,7 +21,7 @@
     "test:debug": "npx --node-arg=--inspect-brk jest -i"
   },
   "dependencies": {
-    "react-is": "^16.13.1"
+    "react-is": "^17.0.2"
   },
   "devDependencies": {
     "@remax/types": "2.14.1",
